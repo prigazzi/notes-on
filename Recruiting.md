@@ -39,9 +39,9 @@ This is something that comes into mind every time I'm interviewing someone: Besi
 
 ## When is a candidate "good enough"?
 
-Asking myself this question, I'm constantly thinking on how will I recognize that person that I want to hire for Coolblue. In general, and given my position, I'll just try to asses the technical skills, but in the face of a developer I need to ask myself:
+Asking myself this question, I'm constantly thinking on how I'll recognize that person that I want to hire for Coolblue. In general, and given my position, I'd just try to asses the technical skills, but in the face of a developer I need to ask myself:
 * _Is this candidate better than I was when I joined Coolblue?_ This is usually a good sign, but a really complicated one to receive. Another way of phrasing this, in my opinion, is: _If I were to join Coolblue right now, what would I think of this guy/gal interviewing me?_
-* Another question that I ask myself more often, is _Is this candidate better than the average developer in the IT Department?_. This is usually one bar that the candidates are more often being close to pass, but I still think this is the bare minimum level I should accept.
+* Another question that I ask myself more often, _Is this candidate better than the average developer in the IT Department?_. This is usually one bar that the candidates are more often being close to pass, but I still think this is the bare minimum level I should accept.
 
 ## How many times we use Fibonacci in our website?
 
@@ -52,15 +52,15 @@ The test should poke on the interviewee capabilities for actual, current technol
 We could gradually change the way we perform interviews, for both people living in The Netherlands as well living in Europe or The World. We could assume the same method for them all.
 
 * Instead of starting with a phone interview, the first point of contact with Coolblue must be code, but not a simple online test regarding some specific questions or functions, we should ask for a small, but complete, online application. This way we are able to know more about the mental process and technical abilities to think an application as whole. This shouldn't take more than 2 or 3 hours to create, but we can give up to 24 hours for a response. This way, when we invite the person for a personal interview with us, he or she hasn't just passed a small objective; we're more than confident that we want to work with this person, at least at the technical level.
-* Invite the person to the office, or perform a longer Online interview where he or she must defend this proyect, explain the decisions made or how it could be made even better given the time 
+* Invite the person to the office, or perform a longer Online interview where he or she must defend this project, explain the decisions made or how it could be made even better given the time 
     * __Alternative 1__: Another option could be to do the exact same thing but with another project this person created, but the complexity of showing the code still remains.
     * __Alternative 2__: During the office visit we could actually provide a pre-developed example and ask the candidate to improve it in several ways:
         - Find bugs and remove them.
         - Refactor a part of the project.
         - Get it "production ready".
-* We need to ask the candidate how he or she would improve Coolblue. This is a way to demonstrate that it's interested enough in looking the website and the company it's going to work for. Two well founded proposals should be enough.
+* We need to ask the candidate how he or she would improve Coolblue. This is a way to demonstrate that it's interested enough for looking into the website and the company he or she is going to work for. Two well-founded proposals should be enough.
 * During the interview process we could actually present the candidates with current, real-life problems we're facing, and ask for input on those issues. This is also a way to keep the recruiting process relevant and current, and nothing helps better than a fresh view on an actual problem.
-* If we could open-source any of our internal proyects, a great starter point to any interview could be a pull request fixing any bug or proposing an improvement to the code.
+* If we could open-source any of our internal projects, a great starting point to any interview could be a pull request fixing any bug or proposing an improvement to the code.
 
 ## Information comes in many forms.
 
@@ -68,5 +68,5 @@ Most of the time, the Cover letter is a waste of time to read. Provides no furth
 
 But I found that the most interesting information it may be gathered somewhere else also, being the candidate's Github account the best source. I'd rather see all the time the user's Github account better than a cover letter or his/hers LinkedIn profile. Even the lack of a Github account says something about the candidate (Bitbucket, Gitorious, GitLab are all equivalents for Github).
 
-Also important but somehow less, are a twitter feed and a portfolio website. From a Twitter feed we can see if/how participates in a community of previous comments about the candidate's current/past job positions. From a portfolio website we can see the amout of dedication put to something that really reflects the candidate's work. 
+Also important but somehow less, are a twitter feed and a portfolio website. From a Twitter feed we can see if/how participates in a community of previous comments about the candidate's current/past job positions. From a portfolio website we can see the ammout of dedication put to something that really reflects the candidate's work. 
 
