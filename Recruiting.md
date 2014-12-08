@@ -32,12 +32,16 @@ For example,
 * Regarding non-technical questions, I should know what I'm looking to learn from the candidate's answer.
 * It's not always my questions the ones that matter. I should provide an environment where the candidate can feel free to ask questions regarding a certain assignment.
 
+> **Suggestion**
+> 
+> Wouldn't be great if, as more people get involved in the hiring process, we could create a repository of proven, working questions, the information that question is supposed to gather, and a list of good/bad examples of responses?
+
 ## Hiring people who's only technically sound, or also who show a glimpse of success?
 > A developer should be able to be successful within the company, his team, and the customers.
 
 This is something that comes into mind every time I'm interviewing someone: Besides having the proper technical skills, is this person going to love what he does here? Will he/she go the extra mile and really enjoy himself inside this environment? Will he/she get stuff done?
 
-## When is a candidate "good enough"?
+### When is a candidate "good enough"?
 
 Asking myself this question, I'm constantly thinking on how I'll recognize that person that I want to hire for Coolblue. In general, and given my position, I'd just try to asses the technical skills, but in the face of a developer I need to ask myself:
 * _Is this candidate better than I was when I joined Coolblue?_ This is usually a good sign, but a really complicated one to receive. Another way of phrasing this, in my opinion, is: _If I were to join Coolblue right now, what would I think of this guy/gal interviewing me?_
